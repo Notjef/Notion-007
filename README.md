@@ -38,3 +38,5 @@ ___
 
 ⭐ If this template helped you, leave a star and follow my profile.
 Your support keeps the mission alive.
+
+<img src="https://imgur.com/gallery/007-generation-08D8vgI#1t1ueSs
