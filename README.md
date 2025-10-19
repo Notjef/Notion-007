@@ -12,7 +12,7 @@ Este template gratuito para Notion não é apenas uma página bonita.
 
 • Acesse e duplique o espaço exclusivo no Notion
 • Personalize seu painel com suas metas pessoais
-• Acompanhe seu progresso em Disciplina Atômica, Operações Diárias e Modo Foco
+• Acompanhe seu progresso em Disciplina Diaria, Operações Diárias e Modo Foco
 • Execute com clareza, propósito e confiança
 
  ---
