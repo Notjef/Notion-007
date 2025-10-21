@@ -81,13 +81,13 @@ Cada elemento do template pode ser adaptado — você é o comandante da operaç
 
 🧭 **Ferramentas e Design**
 
- • Interface minimalista em preto, inspirada na estética do agente 007 e tecnologia
+  • Interface minimalista em preto, inspirada na estética do agente 007 e tecnologia
 
- • Hierarquia visual limpa e eficiente
+  • Hierarquia visual limpa e eficiente
 
- • Seções inteligentes para metas, rotina e foco
+  • Seções inteligentes para metas, rotina e foco
 
- • Criado para de ajuadar no dia a dia 
+  • Criado para de ajuadar no dia a dia 
 
 
 
