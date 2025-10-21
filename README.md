@@ -1,4 +1,4 @@
-🕵‍♂ **Misson control — Notion Template**
+🕵‍♂ **Misson control — Notion Template Gratis**
 ----
 Bem-vindo à missão.
 Você foi recrutado para algo maior — dominar a disciplina, a organização e o foco com a precisão de um verdadeiro agente 007.
